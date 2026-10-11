@@ -6186,5 +6186,33 @@
         "romaji": "Kyoufu Collector",
         "english": "Horror Collector",
         "total_chapters": 5
+    },
+    "Kateinai Henai": {
+        "mediaId": 178382,
+        "progress": 7,
+        "status": "COMPLETED",
+        "list_category": "Hentai",
+        "scoreRaw": 91,
+        "type": "MANGA",
+        "cover": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx178382-VjokXqYs71Bt.png",
+        "color": "#e4ae0d",
+        "duration": 24,
+        "romaji": "Kateinai Henai",
+        "english": null,
+        "total_chapters": 7
+    },
+    "Mob kara Hajimaru Tansaku Eiyuutan": {
+        "mediaId": 159547,
+        "progress": 39,
+        "status": "CURRENT",
+        "list_category": "Hentai",
+        "scoreRaw": 100,
+        "type": "MANGA",
+        "cover": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx159547-PrqYrjNrTJxy.png",
+        "color": "#50bbe4",
+        "duration": 24,
+        "romaji": "Mob kara Hajimaru Tansaku Eiyuutan",
+        "english": null,
+        "total_chapters": null
     }
 }
