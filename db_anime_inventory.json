@@ -110,8 +110,8 @@
     "My Friend's Little Sister Has It In for Me!": {
         "mediaId": 129195,
         "progress": 5,
-        "status": "PLANNING",
-        "list_category": "Planning",
+        "status": "PAUSED",
+        "list_category": "Paused",
         "scoreRaw": 0,
         "type": "ANIME",
         "cover": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx129195-9BT4wE1QTLj2.jpg",
@@ -3871,8 +3871,8 @@
     },
     "Tojima Wants to Be a Kamen Rider": {
         "mediaId": 187464,
-        "progress": 6,
-        "status": "PAUSED",
+        "progress": 24,
+        "status": "COMPLETED",
         "list_category": "Hentai",
         "scoreRaw": 100,
         "type": "ANIME",
@@ -7015,10 +7015,10 @@
     },
     "May I Ask for One Final Thing?": {
         "mediaId": 181447,
-        "progress": 7,
-        "status": "CURRENT",
+        "progress": 13,
+        "status": "COMPLETED",
         "list_category": "Iseki",
-        "scoreRaw": 0,
+        "scoreRaw": 89,
         "type": "ANIME",
         "cover": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx181447-aCmaQmtdwuU5.jpg",
         "color": "#43bbf1",
@@ -7105,9 +7105,9 @@
     },
     "Dusk Beyond the End of the World": {
         "mediaId": 195153,
-        "progress": 5,
-        "status": "CURRENT",
-        "list_category": "Current",
+        "progress": 13,
+        "status": "COMPLETED",
+        "list_category": "Completed",
         "scoreRaw": 98,
         "type": "ANIME",
         "cover": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx195153-yiRxZP5pPJLi.png",
@@ -7120,9 +7120,9 @@
     },
     "This Monster Wants to Eat Me": {
         "mediaId": 183385,
-        "progress": 4,
-        "status": "CURRENT",
-        "list_category": "Current",
+        "progress": 13,
+        "status": "COMPLETED",
+        "list_category": "Completed",
         "scoreRaw": 94,
         "type": "ANIME",
         "cover": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx183385-f1TgnttLckBT.jpg",
@@ -12052,5 +12052,20 @@
         "romaji": "Hotaru no Haka",
         "english": "Grave of the Fireflies",
         "total_episodes": 1
+    },
+    "There's No Freaking Way I'll Be Your Lover! Unless\u2026 ~Next Shine~": {
+        "mediaId": 199112,
+        "progress": 0,
+        "status": "PLANNING",
+        "list_category": "Planning",
+        "scoreRaw": 0,
+        "type": "ANIME",
+        "cover": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx199112-WyGPtcAI5QZp.jpg",
+        "color": "#e4865d",
+        "duration": 24,
+        "nextAiring": null,
+        "romaji": "Watashi ga Koibito ni Nareru Wake Nai jan, Muri Muri! (\u203bMuri ja Nakatta!?): Next Shine!",
+        "english": "There's No Freaking Way I'll Be Your Lover! Unless\u2026 ~Next Shine~",
+        "total_episodes": 5
     }
 }
