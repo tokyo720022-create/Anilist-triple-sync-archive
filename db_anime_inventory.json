@@ -10309,21 +10309,21 @@
     },
     "Firefly Wedding": {
         "mediaId": 205909,
-        "progress": 0,
-        "status": "PLANNING",
-        "list_category": "Planning",
+        "progress": 1,
+        "status": "CURRENT",
+        "list_category": "Current",
         "scoreRaw": 0,
         "type": "ANIME",
         "cover": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx205909-DM0fAzNQulod.jpg",
         "color": "#aebb35",
-        "duration": 24,
+        "duration": 23,
         "nextAiring": {
-            "airingAt": 1791556200,
-            "episode": 1
+            "airingAt": 1792161000,
+            "episode": 2
         },
         "romaji": "Hotaru no Yomeiri",
         "english": "Firefly Wedding",
-        "total_episodes": null
+        "total_episodes": 12
     },
     "To You in the Beyond": {
         "mediaId": 207327,
@@ -12021,6 +12021,36 @@
         "nextAiring": null,
         "romaji": "Mushoku Tensei: Isekai Ittara Honki Dasu Part 2 - Eris no Goblin Toubatsu",
         "english": "Mushoku Tensei: Jobless Reincarnation Cour 2 - Eris the Goblin Slayer",
+        "total_episodes": 1
+    },
+    "A Nobody's Way Up to an Exploration Hero": {
+        "mediaId": 172416,
+        "progress": 0,
+        "status": "PLANNING",
+        "list_category": "Planning",
+        "scoreRaw": 0,
+        "type": "ANIME",
+        "cover": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx172416-RvQq9bWUxUWt.jpg",
+        "color": "#50bbe4",
+        "duration": 24,
+        "nextAiring": null,
+        "romaji": "Mob kara Hajimaru Tansaku Eiyuutan",
+        "english": "A Nobody's Way Up to an Exploration Hero",
+        "total_episodes": 12
+    },
+    "Grave of the Fireflies": {
+        "mediaId": 578,
+        "progress": 1,
+        "status": "COMPLETED",
+        "list_category": "Anime movies",
+        "scoreRaw": 100,
+        "type": "ANIME",
+        "cover": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx578-vU6XcOlb1XFU.jpg",
+        "color": "#e4bb5d",
+        "duration": 88,
+        "nextAiring": null,
+        "romaji": "Hotaru no Haka",
+        "english": "Grave of the Fireflies",
         "total_episodes": 1
     }
 }
