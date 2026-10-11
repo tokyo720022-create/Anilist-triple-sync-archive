@@ -11431,17 +11431,17 @@
     },
     "HORROR COLLECTOR": {
         "mediaId": 203473,
-        "progress": 0,
-        "status": "PLANNING",
-        "list_category": "Planning",
+        "progress": 1,
+        "status": "CURRENT",
+        "list_category": "Current",
         "scoreRaw": 0,
         "type": "ANIME",
         "cover": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b203473-pzyaqV432Qko.jpg",
         "color": null,
         "duration": 24,
         "nextAiring": {
-            "airingAt": 1791643500,
-            "episode": 1
+            "airingAt": 1792248300,
+            "episode": 2
         },
         "romaji": "Kyoufu Collector",
         "english": "HORROR COLLECTOR",
@@ -11527,7 +11527,7 @@
     },
     "Magical Explorer": {
         "mediaId": 169581,
-        "progress": 2,
+        "progress": 3,
         "status": "CURRENT",
         "list_category": "Iseki",
         "scoreRaw": 98,
@@ -11536,8 +11536,8 @@
         "color": "#f1a150",
         "duration": 24,
         "nextAiring": {
-            "airingAt": 1791584160,
-            "episode": 3
+            "airingAt": 1792249200,
+            "episode": 4
         },
         "romaji": "Magical\u2605Explorer: Eroge no Yuujin Chara ni Tensei Shitakedo, Game Chishiki Tsukatte Jiyuu ni Ikiru",
         "english": "Magical Explorer",
@@ -11563,17 +11563,17 @@
     },
     "Magic Repo Man: Dumped by My Party, I\u2019ll Cash In With a Cute Support Fairy to Become the Strongest!": {
         "mediaId": 202250,
-        "progress": 1,
+        "progress": 2,
         "status": "CURRENT",
         "list_category": "Iseki",
         "scoreRaw": 97,
         "type": "ANIME",
-        "cover": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx202250-duq4XpZP8TU3.jpg",
-        "color": null,
-        "duration": 24,
+        "cover": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx202250-mpm2cvr92Au2.jpg",
+        "color": "#bbe45d",
+        "duration": 23,
         "nextAiring": {
-            "airingAt": 1791649800,
-            "episode": 2
+            "airingAt": 1792254600,
+            "episode": 3
         },
         "romaji": "Kashita Maryoku wa [Revo Barai] de Kyousei Choushuu",
         "english": "Magic Repo Man: Dumped by My Party, I\u2019ll Cash In With a Cute Support Fairy to Become the Strongest!",
@@ -11659,7 +11659,7 @@
     },
     "A Tale of the Secret Saint": {
         "mediaId": 187402,
-        "progress": 2,
+        "progress": 3,
         "status": "CURRENT",
         "list_category": "Current",
         "scoreRaw": 0,
@@ -11668,8 +11668,8 @@
         "color": "#50bbe4",
         "duration": 24,
         "nextAiring": {
-            "airingAt": 1791637200,
-            "episode": 3
+            "airingAt": 1792242000,
+            "episode": 4
         },
         "romaji": "Tensei shita Dai Seijo wa, Seijo de Aru Koto wo Hita Kakusu",
         "english": "A Tale of the Secret Saint",
@@ -11977,5 +11977,50 @@
         "romaji": "Toaru Anbu no ITEM",
         "english": "A Certain Dark Item",
         "total_episodes": null
+    },
+    "Goblin Burrow": {
+        "mediaId": 159076,
+        "progress": 0,
+        "status": "PLANNING",
+        "list_category": "Hentai",
+        "scoreRaw": 0,
+        "type": "ANIME",
+        "cover": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx159076-DL4CWXTZQVoB.jpg",
+        "color": "#e4a143",
+        "duration": 20,
+        "nextAiring": null,
+        "romaji": "Goblin no Suana",
+        "english": "Goblin Burrow",
+        "total_episodes": 4
+    },
+    "GOBLIN SLAYER": {
+        "mediaId": 101165,
+        "progress": 1,
+        "status": "CURRENT",
+        "list_category": "Current",
+        "scoreRaw": 0,
+        "type": "ANIME",
+        "cover": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx101165-v5NwPXWPFDuD.jpg",
+        "color": "#5d93e4",
+        "duration": 24,
+        "nextAiring": null,
+        "romaji": "Goblin Slayer",
+        "english": "GOBLIN SLAYER",
+        "total_episodes": 12
+    },
+    "Mushoku Tensei: Jobless Reincarnation Cour 2 - Eris the Goblin Slayer": {
+        "mediaId": 141534,
+        "progress": 1,
+        "status": "COMPLETED",
+        "list_category": "Iseki",
+        "scoreRaw": 100,
+        "type": "ANIME",
+        "cover": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx141534-Tmnlz4mvYhaU.jpg",
+        "color": "#28aee4",
+        "duration": 24,
+        "nextAiring": null,
+        "romaji": "Mushoku Tensei: Isekai Ittara Honki Dasu Part 2 - Eris no Goblin Toubatsu",
+        "english": "Mushoku Tensei: Jobless Reincarnation Cour 2 - Eris the Goblin Slayer",
+        "total_episodes": 1
     }
 }
