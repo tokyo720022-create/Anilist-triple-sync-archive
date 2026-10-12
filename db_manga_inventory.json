@@ -6214,5 +6214,19 @@
         "romaji": "Mob kara Hajimaru Tansaku Eiyuutan",
         "english": null,
         "total_chapters": null
+    },
+    "Kegareboshi Murasaki: Jo": {
+        "mediaId": 154592,
+        "progress": 0,
+        "status": "PLANNING",
+        "list_category": "Hentai",
+        "scoreRaw": 0,
+        "type": "MANGA",
+        "cover": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx154592-MargJd6HzpuA.jpg",
+        "color": "#d6a1ff",
+        "duration": 24,
+        "romaji": "Kegareboshi Murasaki: Jo",
+        "english": null,
+        "total_chapters": 1
     }
 }
