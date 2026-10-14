@@ -4803,7 +4803,7 @@
     },
     "Full Clearing Another World under a Goddess with Zero Believers": {
         "mediaId": 117946,
-        "progress": 27,
+        "progress": 38,
         "status": "CURRENT",
         "list_category": "Iseki",
         "scoreRaw": 96,
@@ -6228,5 +6228,33 @@
         "romaji": "Kegareboshi Murasaki: Jo",
         "english": null,
         "total_chapters": 1
+    },
+    "Anatatachi Soredemo Sensei desu ka!": {
+        "mediaId": 174169,
+        "progress": 2,
+        "status": "CURRENT",
+        "list_category": "Hentai",
+        "scoreRaw": 100,
+        "type": "MANGA",
+        "cover": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx174169-UjlFsZ7wqoWY.jpg",
+        "color": "#e43593",
+        "duration": 24,
+        "romaji": "Anatatachi Soredemo Sensei desu ka!",
+        "english": null,
+        "total_chapters": null
+    },
+    "Gal Gohan": {
+        "mediaId": 98112,
+        "progress": 0,
+        "status": "PLANNING",
+        "list_category": "Hentai",
+        "scoreRaw": 0,
+        "type": "MANGA",
+        "cover": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/nx98112-9GdZ02taEM0n.jpg",
+        "color": "#fef150",
+        "duration": 24,
+        "romaji": "Gal Gohan",
+        "english": "Gal Gohan",
+        "total_chapters": 69
     }
 }
