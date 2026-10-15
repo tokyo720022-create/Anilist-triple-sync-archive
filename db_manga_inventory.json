@@ -6256,5 +6256,19 @@
         "romaji": "Gal Gohan",
         "english": "Gal Gohan",
         "total_chapters": 69
+    },
+    "GraPara!": {
+        "mediaId": 167995,
+        "progress": 0,
+        "status": "PLANNING",
+        "list_category": "Hentai",
+        "scoreRaw": 0,
+        "type": "MANGA",
+        "cover": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx167995-pvGImgCZfWfy.jpg",
+        "color": "#5dc9f1",
+        "duration": 24,
+        "romaji": "GraPara!",
+        "english": null,
+        "total_chapters": 136
     }
 }
