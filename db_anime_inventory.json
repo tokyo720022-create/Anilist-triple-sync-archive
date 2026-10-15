@@ -11776,7 +11776,7 @@
     },
     "The World's Strongest Witch": {
         "mediaId": 211778,
-        "progress": 1,
+        "progress": 2,
         "status": "CURRENT",
         "list_category": "Current",
         "scoreRaw": 0,
@@ -11785,8 +11785,8 @@
         "color": "#5dbbf1",
         "duration": 24,
         "nextAiring": {
-            "airingAt": 1791982800,
-            "episode": 2
+            "airingAt": 1792587600,
+            "episode": 3
         },
         "romaji": "Sekai Saikyou no Majo, Hajimemashita",
         "english": "The World's Strongest Witch",
