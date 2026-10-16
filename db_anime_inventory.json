@@ -1273,7 +1273,7 @@
     },
     "FX Fighter Kurumi-chan": {
         "mediaId": 206401,
-        "progress": 2,
+        "progress": 3,
         "status": "CURRENT",
         "list_category": "Current",
         "scoreRaw": 0,
@@ -1282,8 +1282,8 @@
         "color": "#f1d678",
         "duration": 24,
         "nextAiring": {
-            "airingAt": 1792067400,
-            "episode": 3
+            "airingAt": 1792672200,
+            "episode": 4
         },
         "romaji": "FX Senshi Kurumi-chan",
         "english": "FX Fighter Kurumi-chan",
