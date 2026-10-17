@@ -10309,7 +10309,7 @@
     },
     "Firefly Wedding": {
         "mediaId": 205909,
-        "progress": 1,
+        "progress": 2,
         "status": "CURRENT",
         "list_category": "Current",
         "scoreRaw": 0,
@@ -10318,8 +10318,8 @@
         "color": "#aebb35",
         "duration": 23,
         "nextAiring": {
-            "airingAt": 1792161000,
-            "episode": 2
+            "airingAt": 1792765800,
+            "episode": 3
         },
         "romaji": "Hotaru no Yomeiri",
         "english": "Firefly Wedding",
