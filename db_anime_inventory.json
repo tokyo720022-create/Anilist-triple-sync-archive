@@ -11527,7 +11527,7 @@
     },
     "Magical Explorer": {
         "mediaId": 169581,
-        "progress": 3,
+        "progress": 4,
         "status": "CURRENT",
         "list_category": "Iseki",
         "scoreRaw": 98,
@@ -11536,8 +11536,8 @@
         "color": "#f1a150",
         "duration": 24,
         "nextAiring": {
-            "airingAt": 1792249200,
-            "episode": 4
+            "airingAt": 1792854000,
+            "episode": 5
         },
         "romaji": "Magical\u2605Explorer: Eroge no Yuujin Chara ni Tensei Shitakedo, Game Chishiki Tsukatte Jiyuu ni Ikiru",
         "english": "Magical Explorer",
@@ -12085,7 +12085,7 @@
     },
     "Full Clearing Another World under a Goddess with Zero Believers": {
         "mediaId": 205896,
-        "progress": 1,
+        "progress": 2,
         "status": "CURRENT",
         "list_category": "Iseki",
         "scoreRaw": 0,
@@ -12094,8 +12094,8 @@
         "color": "#5dbbe4",
         "duration": 24,
         "nextAiring": {
-            "airingAt": 1792333800,
-            "episode": 2
+            "airingAt": 1792938600,
+            "episode": 3
         },
         "romaji": "Shinja Zero no Megami-sama to Hajimeru Isekai Kouryaku",
         "english": "Full Clearing Another World under a Goddess with Zero Believers",
