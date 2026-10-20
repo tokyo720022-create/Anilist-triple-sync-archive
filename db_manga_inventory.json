@@ -6371,7 +6371,7 @@
     },
     "Survival in Another World with My Mistress!": {
         "mediaId": 123747,
-        "progress": 6,
+        "progress": 10,
         "status": "CURRENT",
         "list_category": "Iseki",
         "scoreRaw": 0,
@@ -6536,5 +6536,33 @@
         "romaji": "Pechitama-kun Peeling",
         "english": null,
         "total_chapters": 1
+    },
+    "Isekai de Dorei ni Narimashita ga Goshujin-sama wa Watashi ni Yokujou Shimasen": {
+        "mediaId": 137316,
+        "progress": 0,
+        "status": "PLANNING",
+        "list_category": "Iseki",
+        "scoreRaw": 0,
+        "type": "MANGA",
+        "cover": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx137316-MJfPbXu8alvT.jpg",
+        "color": "#e4435d",
+        "duration": 24,
+        "romaji": "Isekai de Dorei ni Narimashita ga Goshujin-sama wa Watashi ni Yokujou Shimasen",
+        "english": null,
+        "total_chapters": 11
+    },
+    "TS Elf-san: Boku to Goshujin-sama no Isekai IchaIcha Bouken Seikatsu": {
+        "mediaId": 165069,
+        "progress": 0,
+        "status": "PLANNING",
+        "list_category": "Iseki",
+        "scoreRaw": 0,
+        "type": "MANGA",
+        "cover": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/b165069-IwcMp46TqgLr.jpg",
+        "color": "#e4d650",
+        "duration": 24,
+        "romaji": "TS Elf-san: Boku to Goshujin-sama no Isekai IchaIcha Bouken Seikatsu",
+        "english": null,
+        "total_chapters": 37
     }
 }
