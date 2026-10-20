@@ -11641,7 +11641,7 @@
     },
     "So What's Wrong with Getting Reborn as a Goblin?": {
         "mediaId": 209219,
-        "progress": 3,
+        "progress": 4,
         "status": "CURRENT",
         "list_category": "Tensai",
         "scoreRaw": 100,
@@ -11650,8 +11650,8 @@
         "color": "#a1c950",
         "duration": 24,
         "nextAiring": {
-            "airingAt": 1792414800,
-            "episode": 4
+            "airingAt": 1793019600,
+            "episode": 5
         },
         "romaji": "Tensei Goblin Dakedo Shitsumon Aru?",
         "english": "So What's Wrong with Getting Reborn as a Goblin?",
@@ -11758,7 +11758,7 @@
     },
     "Super Psychic Policeman Chojo": {
         "mediaId": 200294,
-        "progress": 1,
+        "progress": 2,
         "status": "CURRENT",
         "list_category": "Current",
         "scoreRaw": 0,
@@ -11767,12 +11767,12 @@
         "color": null,
         "duration": 24,
         "nextAiring": {
-            "airingAt": 1791900000,
-            "episode": 2
+            "airingAt": 1792504800,
+            "episode": 3
         },
         "romaji": "Choujun! Choujou Senpai",
         "english": "Super Psychic Policeman Chojo",
-        "total_episodes": null
+        "total_episodes": 12
     },
     "The World's Strongest Witch": {
         "mediaId": 211778,
