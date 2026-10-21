@@ -6245,7 +6245,7 @@
     },
     "Gal Gohan": {
         "mediaId": 98112,
-        "progress": 5,
+        "progress": 6,
         "status": "CURRENT",
         "list_category": "Rom Com",
         "scoreRaw": 0,
@@ -6662,5 +6662,33 @@
         "romaji": "Inaka no Home Center Otoko no Jiyuu na Isekai Seikatsu",
         "english": null,
         "total_chapters": null
+    },
+    "Yankee JK Kuzuhana-chan": {
+        "mediaId": 116822,
+        "progress": 10,
+        "status": "CURRENT",
+        "list_category": "Rom Com",
+        "scoreRaw": 84,
+        "type": "MANGA",
+        "cover": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx116822-ni3XGNLyFaTv.jpg",
+        "color": "#e4ae50",
+        "duration": 24,
+        "romaji": "Yankee JK Kuzuhana-chan",
+        "english": "Yankee JK Kuzuhana-chan",
+        "total_chapters": null
+    },
+    "Kuro Gal-san ga Kuru!": {
+        "mediaId": 115356,
+        "progress": 0,
+        "status": "PLANNING",
+        "list_category": "Hentai",
+        "scoreRaw": 0,
+        "type": "MANGA",
+        "cover": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx115356-8q9VH81hVlBZ.jpg",
+        "color": "#f15d93",
+        "duration": 24,
+        "romaji": "Kuro Gal-san ga Kuru!",
+        "english": null,
+        "total_chapters": 47
     }
 }
