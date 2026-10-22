@@ -6665,7 +6665,7 @@
     },
     "Yankee JK Kuzuhana-chan": {
         "mediaId": 116822,
-        "progress": 20,
+        "progress": 25,
         "status": "CURRENT",
         "list_category": "Rom Com",
         "scoreRaw": 100,
@@ -6690,5 +6690,33 @@
         "romaji": "Kuro Gal-san ga Kuru!",
         "english": null,
         "total_chapters": 47
+    },
+    "100% Maketa Watashi no Ana: Guchogucho ni Okashitekuru Aitsu no Kyokon": {
+        "mediaId": 161161,
+        "progress": 0,
+        "status": "PLANNING",
+        "list_category": "Hentai",
+        "scoreRaw": 0,
+        "type": "MANGA",
+        "cover": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/b161161-tKo7hUPAh44i.png",
+        "color": "#e4935d",
+        "duration": 24,
+        "romaji": "100% Maketa Watashi no Ana: Guchogucho ni Okashitekuru Aitsu no Kyokon",
+        "english": null,
+        "total_chapters": 7
+    },
+    "Booty Royale: Never Go Down Without a Fight!": {
+        "mediaId": 93456,
+        "progress": 28,
+        "status": "CURRENT",
+        "list_category": "Hentai",
+        "scoreRaw": 100,
+        "type": "MANGA",
+        "cover": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx93456-Exs2nGwJPh07.jpg",
+        "color": "#e450a1",
+        "duration": 24,
+        "romaji": "Hagure Idol: Jigoku-hen",
+        "english": "Booty Royale: Never Go Down Without a Fight!",
+        "total_chapters": null
     }
 }
