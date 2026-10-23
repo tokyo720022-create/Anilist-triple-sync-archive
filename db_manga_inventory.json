@@ -6665,7 +6665,7 @@
     },
     "Yankee JK Kuzuhana-chan": {
         "mediaId": 116822,
-        "progress": 50,
+        "progress": 73,
         "status": "CURRENT",
         "list_category": "Rom Com",
         "scoreRaw": 100,
@@ -6707,7 +6707,7 @@
     },
     "Booty Royale: Never Go Down Without a Fight!": {
         "mediaId": 93456,
-        "progress": 38,
+        "progress": 42,
         "status": "CURRENT",
         "list_category": "Hentai",
         "scoreRaw": 100,
@@ -6717,6 +6717,34 @@
         "duration": 24,
         "romaji": "Hagure Idol: Jigoku-hen",
         "english": "Booty Royale: Never Go Down Without a Fight!",
+        "total_chapters": null
+    },
+    "Honjitsu mo Haha to Imouto no Choukyou Hiyori": {
+        "mediaId": 193702,
+        "progress": 0,
+        "status": "PLANNING",
+        "list_category": "Hentai",
+        "scoreRaw": 0,
+        "type": "MANGA",
+        "cover": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx193702-yvrsfGenrwep.png",
+        "color": "#f1c9bb",
+        "duration": 24,
+        "romaji": "Honjitsu mo Haha to Imouto no Choukyou Hiyori",
+        "english": null,
+        "total_chapters": 10
+    },
+    "The Faraway Paladin": {
+        "mediaId": 101521,
+        "progress": 0,
+        "status": "PLANNING",
+        "list_category": "Iseki",
+        "scoreRaw": 0,
+        "type": "MANGA",
+        "cover": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/b101521-5pQUbwJxVCbU.jpg",
+        "color": "#aed678",
+        "duration": 24,
+        "romaji": "Saihate no Paladin",
+        "english": "The Faraway Paladin",
         "total_chapters": null
     }
 }
