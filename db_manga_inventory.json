@@ -6665,7 +6665,7 @@
     },
     "Yankee JK Kuzuhana-chan": {
         "mediaId": 116822,
-        "progress": 108,
+        "progress": 126,
         "status": "CURRENT",
         "list_category": "Rom Com",
         "scoreRaw": 100,
@@ -6746,5 +6746,19 @@
         "romaji": "Saihate no Paladin",
         "english": "The Faraway Paladin",
         "total_chapters": null
+    },
+    "Hokkaido Gals Are Super Adorable!": {
+        "mediaId": 111403,
+        "progress": 0,
+        "status": "PLANNING",
+        "list_category": "Hentai",
+        "scoreRaw": 0,
+        "type": "MANGA",
+        "cover": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx111403-Dbes2Il844xa.jpg",
+        "color": "#f14378",
+        "duration": 24,
+        "romaji": "Dosanko Gal wa Namara Menkoi",
+        "english": "Hokkaido Gals Are Super Adorable!",
+        "total_chapters": 123
     }
 }
